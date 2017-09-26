@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Page
+
+My name is Dhara.
+
+
+I am a master's student at NJIT pursuing Business Information system. I have my under graduation degree in Computer science.
 
 You can use the [editor on GitHub](https://github.com/Dhara54/My-website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
